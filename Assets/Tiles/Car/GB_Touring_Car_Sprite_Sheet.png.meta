@@ -1,0 +1,3228 @@
+fileFormatVersion: 2
+guid: d554cd99fecf03c469980985ec517360
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -711342800750532013
+    second: GB_Touring_Car_Sprite_Sheet_0
+  - first:
+      213: 4924593826565538640
+    second: GB_Touring_Car_Sprite_Sheet_1
+  - first:
+      213: 4780481706382560032
+    second: GB_Touring_Car_Sprite_Sheet_2
+  - first:
+      213: -8836524573980419450
+    second: GB_Touring_Car_Sprite_Sheet_3
+  - first:
+      213: 4882735901251079708
+    second: GB_Touring_Car_Sprite_Sheet_4
+  - first:
+      213: 4350763226836434709
+    second: GB_Touring_Car_Sprite_Sheet_5
+  - first:
+      213: -2968298141792214487
+    second: GB_Touring_Car_Sprite_Sheet_6
+  - first:
+      213: 7873616682513176973
+    second: GB_Touring_Car_Sprite_Sheet_7
+  - first:
+      213: 363204955176273045
+    second: GB_Touring_Car_Sprite_Sheet_8
+  - first:
+      213: 1960175913194474974
+    second: GB_Touring_Car_Sprite_Sheet_9
+  - first:
+      213: 423999800434627882
+    second: GB_Touring_Car_Sprite_Sheet_10
+  - first:
+      213: 1989475887883000875
+    second: GB_Touring_Car_Sprite_Sheet_11
+  - first:
+      213: 8204729007078233822
+    second: GB_Touring_Car_Sprite_Sheet_12
+  - first:
+      213: -8422380602915991218
+    second: GB_Touring_Car_Sprite_Sheet_13
+  - first:
+      213: 6683510008203242250
+    second: GB_Touring_Car_Sprite_Sheet_14
+  - first:
+      213: 1432033149327122566
+    second: GB_Touring_Car_Sprite_Sheet_15
+  - first:
+      213: 1799099705333510075
+    second: GB_Touring_Car_Sprite_Sheet_16
+  - first:
+      213: -7818442018055289273
+    second: GB_Touring_Car_Sprite_Sheet_17
+  - first:
+      213: -6186556817486912217
+    second: GB_Touring_Car_Sprite_Sheet_18
+  - first:
+      213: 7866727503809326905
+    second: GB_Touring_Car_Sprite_Sheet_19
+  - first:
+      213: 4076775291281138515
+    second: GB_Touring_Car_Sprite_Sheet_20
+  - first:
+      213: -6369925914908034804
+    second: GB_Touring_Car_Sprite_Sheet_21
+  - first:
+      213: -5670672173188214831
+    second: GB_Touring_Car_Sprite_Sheet_22
+  - first:
+      213: -323422917377669518
+    second: GB_Touring_Car_Sprite_Sheet_23
+  - first:
+      213: -5824391698155398840
+    second: GB_Touring_Car_Sprite_Sheet_24
+  - first:
+      213: -328814397118780546
+    second: GB_Touring_Car_Sprite_Sheet_25
+  - first:
+      213: -4307020677262362677
+    second: GB_Touring_Car_Sprite_Sheet_26
+  - first:
+      213: -8369769451916426988
+    second: GB_Touring_Car_Sprite_Sheet_27
+  - first:
+      213: -68583945882598220
+    second: GB_Touring_Car_Sprite_Sheet_28
+  - first:
+      213: 4843244248260688248
+    second: GB_Touring_Car_Sprite_Sheet_29
+  - first:
+      213: 3219886050993390476
+    second: GB_Touring_Car_Sprite_Sheet_30
+  - first:
+      213: 5892786417511652291
+    second: GB_Touring_Car_Sprite_Sheet_31
+  - first:
+      213: 2448784185795196781
+    second: GB_Touring_Car_Sprite_Sheet_32
+  - first:
+      213: -8719894471367126778
+    second: GB_Touring_Car_Sprite_Sheet_33
+  - first:
+      213: -5359098537199336113
+    second: GB_Touring_Car_Sprite_Sheet_34
+  - first:
+      213: -2851934574410582682
+    second: GB_Touring_Car_Sprite_Sheet_35
+  - first:
+      213: 912056608827578579
+    second: GB_Touring_Car_Sprite_Sheet_36
+  - first:
+      213: 445044194051183818
+    second: GB_Touring_Car_Sprite_Sheet_37
+  - first:
+      213: -7706742088453780081
+    second: GB_Touring_Car_Sprite_Sheet_38
+  - first:
+      213: -1563862280800556412
+    second: GB_Touring_Car_Sprite_Sheet_39
+  - first:
+      213: -8652948339191568415
+    second: GB_Touring_Car_Sprite_Sheet_40
+  - first:
+      213: 1322462316814035220
+    second: GB_Touring_Car_Sprite_Sheet_41
+  - first:
+      213: -6304381767744965687
+    second: GB_Touring_Car_Sprite_Sheet_42
+  - first:
+      213: -3134546930209760681
+    second: GB_Touring_Car_Sprite_Sheet_43
+  - first:
+      213: 1078574410481987610
+    second: GB_Touring_Car_Sprite_Sheet_44
+  - first:
+      213: -8723457088523150046
+    second: GB_Touring_Car_Sprite_Sheet_45
+  - first:
+      213: -602006567537277874
+    second: GB_Touring_Car_Sprite_Sheet_46
+  - first:
+      213: -8866106310990665659
+    second: GB_Touring_Car_Sprite_Sheet_47
+  - first:
+      213: 3037109006869543755
+    second: GB_Touring_Car_Sprite_Sheet_48
+  - first:
+      213: 1036131955179343623
+    second: GB_Touring_Car_Sprite_Sheet_49
+  - first:
+      213: 3476160729852739377
+    second: GB_Touring_Car_Sprite_Sheet_50
+  - first:
+      213: 4915521794729382730
+    second: GB_Touring_Car_Sprite_Sheet_51
+  - first:
+      213: -6979884629461739210
+    second: GB_Touring_Car_Sprite_Sheet_52
+  - first:
+      213: -3674686860607152732
+    second: GB_Touring_Car_Sprite_Sheet_53
+  - first:
+      213: -7289467252445671175
+    second: GB_Touring_Car_Sprite_Sheet_54
+  - first:
+      213: 1583662172193124341
+    second: GB_Touring_Car_Sprite_Sheet_55
+  - first:
+      213: 3426517116729956369
+    second: GB_Touring_Car_Sprite_Sheet_56
+  - first:
+      213: -2067379772798357812
+    second: GB_Touring_Car_Sprite_Sheet_57
+  - first:
+      213: 6533927281313805819
+    second: GB_Touring_Car_Sprite_Sheet_58
+  - first:
+      213: 1541720931503862414
+    second: GB_Touring_Car_Sprite_Sheet_59
+  - first:
+      213: -395756309231451334
+    second: GB_Touring_Car_Sprite_Sheet_60
+  - first:
+      213: 5544441724693087725
+    second: GB_Touring_Car_Sprite_Sheet_61
+  - first:
+      213: -3660838848209767713
+    second: GB_Touring_Car_Sprite_Sheet_62
+  - first:
+      213: -3683389280539032994
+    second: GB_Touring_Car_Sprite_Sheet_63
+  - first:
+      213: -5094070383246980481
+    second: GB_Touring_Car_Sprite_Sheet_64
+  - first:
+      213: -417123942705835080
+    second: GB_Touring_Car_Sprite_Sheet_65
+  - first:
+      213: -2948452007089223226
+    second: GB_Touring_Car_Sprite_Sheet_66
+  - first:
+      213: 4531866112485980123
+    second: GB_Touring_Car_Sprite_Sheet_67
+  - first:
+      213: 8264231141008144545
+    second: GB_Touring_Car_Sprite_Sheet_68
+  - first:
+      213: 1906489450891007703
+    second: GB_Touring_Car_Sprite_Sheet_69
+  - first:
+      213: 8561312910604392337
+    second: GB_Touring_Car_Sprite_Sheet_70
+  - first:
+      213: -6442195183978233699
+    second: GB_Touring_Car_Sprite_Sheet_71
+  - first:
+      213: -2132534071299880724
+    second: GB_Touring_Car_Sprite_Sheet_72
+  - first:
+      213: -6877170419525852407
+    second: GB_Touring_Car_Sprite_Sheet_73
+  - first:
+      213: -7067400007823529699
+    second: GB_Touring_Car_Sprite_Sheet_74
+  - first:
+      213: -7124622359090659014
+    second: GB_Touring_Car_Sprite_Sheet_75
+  - first:
+      213: -3320845733128483663
+    second: GB_Touring_Car_Sprite_Sheet_76
+  - first:
+      213: -1128215777373113326
+    second: GB_Touring_Car_Sprite_Sheet_77
+  - first:
+      213: -1623573717654694042
+    second: GB_Touring_Car_Sprite_Sheet_78
+  - first:
+      213: 8627689176961341647
+    second: GB_Touring_Car_Sprite_Sheet_79
+  - first:
+      213: 2345956171790565302
+    second: GB_Touring_Car_Sprite_Sheet_80
+  - first:
+      213: 2397236952238609704
+    second: GB_Touring_Car_Sprite_Sheet_81
+  - first:
+      213: -7185184631239788492
+    second: GB_Touring_Car_Sprite_Sheet_82
+  - first:
+      213: -6884015084435136156
+    second: GB_Touring_Car_Sprite_Sheet_83
+  - first:
+      213: 3671557795455131359
+    second: GB_Touring_Car_Sprite_Sheet_84
+  - first:
+      213: 3002737375397463401
+    second: GB_Touring_Car_Sprite_Sheet_85
+  - first:
+      213: 2049045712718539462
+    second: GB_Touring_Car_Sprite_Sheet_86
+  - first:
+      213: -3692526367487440007
+    second: GB_Touring_Car_Sprite_Sheet_87
+  - first:
+      213: -7205752234603676198
+    second: GB_Touring_Car_Sprite_Sheet_88
+  - first:
+      213: 1196232810076417795
+    second: GB_Touring_Car_Sprite_Sheet_89
+  - first:
+      213: 7950997373761116087
+    second: GB_Touring_Car_Sprite_Sheet_90
+  - first:
+      213: -7015509974263684461
+    second: GB_Touring_Car_Sprite_Sheet_91
+  - first:
+      213: -8546219494005015951
+    second: GB_Touring_Car_Sprite_Sheet_92
+  - first:
+      213: 6746692162067574234
+    second: GB_Touring_Car_Sprite_Sheet_93
+  - first:
+      213: 5444735856299172777
+    second: GB_Touring_Car_Sprite_Sheet_94
+  - first:
+      213: 7519211405691402442
+    second: GB_Touring_Car_Sprite_Sheet_95
+  - first:
+      213: -7709890693062776930
+    second: GB_Touring_Car_Sprite_Sheet_96
+  - first:
+      213: -4179852470904435974
+    second: GB_Touring_Car_Sprite_Sheet_97
+  - first:
+      213: -517360831914165466
+    second: GB_Touring_Car_Sprite_Sheet_98
+  - first:
+      213: -186776231275115976
+    second: GB_Touring_Car_Sprite_Sheet_99
+  - first:
+      213: 1900303414129492356
+    second: GB_Touring_Car_Sprite_Sheet_100
+  - first:
+      213: 2207142095348871993
+    second: GB_Touring_Car_Sprite_Sheet_101
+  - first:
+      213: 1358784540137966065
+    second: GB_Touring_Car_Sprite_Sheet_102
+  - first:
+      213: -8610997933363033106
+    second: GB_Touring_Car_Sprite_Sheet_103
+  - first:
+      213: -2397249914331760675
+    second: GB_Touring_Car_Sprite_Sheet_104
+  - first:
+      213: 2979144616865323191
+    second: GB_Touring_Car_Sprite_Sheet_105
+  - first:
+      213: -3696796305339280226
+    second: GB_Touring_Car_Sprite_Sheet_106
+  - first:
+      213: 1237951819106273265
+    second: GB_Touring_Car_Sprite_Sheet_107
+  - first:
+      213: -2047543624571912906
+    second: GB_Touring_Car_Sprite_Sheet_108
+  - first:
+      213: 7769462239016603078
+    second: GB_Touring_Car_Sprite_Sheet_109
+  - first:
+      213: 4010072966361315767
+    second: GB_Touring_Car_Sprite_Sheet_110
+  - first:
+      213: -8596273646024903730
+    second: GB_Touring_Car_Sprite_Sheet_111
+  - first:
+      213: 6973319139785766818
+    second: GB_Touring_Car_Sprite_Sheet_112
+  - first:
+      213: 1181705453028992416
+    second: GB_Touring_Car_Sprite_Sheet_113
+  - first:
+      213: -4422958397818823801
+    second: GB_Touring_Car_Sprite_Sheet_114
+  - first:
+      213: -9201883191678641018
+    second: GB_Touring_Car_Sprite_Sheet_115
+  - first:
+      213: 4874099477489440634
+    second: GB_Touring_Car_Sprite_Sheet_116
+  - first:
+      213: 6268006177139123810
+    second: GB_Touring_Car_Sprite_Sheet_117
+  - first:
+      213: 9327537430081362
+    second: GB_Touring_Car_Sprite_Sheet_118
+  - first:
+      213: -3123108758477422068
+    second: GB_Touring_Car_Sprite_Sheet_119
+  - first:
+      213: 4286801901247500333
+    second: GB_Touring_Car_Sprite_Sheet_120
+  - first:
+      213: -4082732531539298747
+    second: GB_Touring_Car_Sprite_Sheet_121
+  - first:
+      213: -8866443963054521852
+    second: GB_Touring_Car_Sprite_Sheet_122
+  - first:
+      213: 8261318703884968461
+    second: GB_Touring_Car_Sprite_Sheet_123
+  - first:
+      213: -5014020903100775834
+    second: GB_Touring_Car_Sprite_Sheet_124
+  - first:
+      213: -3938996254644353280
+    second: GB_Touring_Car_Sprite_Sheet_125
+  - first:
+      213: 3903370230563054507
+    second: GB_Touring_Car_Sprite_Sheet_126
+  - first:
+      213: 8025097004353580965
+    second: GB_Touring_Car_Sprite_Sheet_127
+  - first:
+      213: -6412134075086184533
+    second: GB_Touring_Car_Sprite_Sheet_128
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 585
+        width: 61
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35aabb7dd7dc026f0800000000000000
+      internalID: -711342800750532013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 585
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053458f5efba75440800000000000000
+      internalID: 4924593826565538640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 585
+        width: 49
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b8f2ca8cea75240800000000000000
+      internalID: 4780481706382560032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 585
+        width: 46
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a13e6c7bb5e5580800000000000000
+      internalID: -8836524573980419450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 559
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e0e1eae66f2c340800000000000000
+      internalID: 4882735901251079708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 504
+        width: 97
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ffa6d7a14016c30800000000000000
+      internalID: 4350763226836434709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 504
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922e507119c7ec6d0800000000000000
+      internalID: -2968298141792214487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 504
+        width: 92
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8999c218a4b44d60800000000000000
+      internalID: 7873616682513176973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 504
+        width: 92
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59481fd7bfc5a0500800000000000000
+      internalID: 363204955176273045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 514
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddcb3b8b91f33b10800000000000000
+      internalID: 1960175913194474974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 504
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a251eb1729952e500800000000000000
+      internalID: 423999800434627882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 488
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c987287c90c9b10800000000000000
+      internalID: 1989475887883000875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 434
+        width: 13
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6dd39bf8d0dd170800000000000000
+      internalID: 8204729007078233822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 449
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e415d002771bd1b80800000000000000
+      internalID: -8422380602915991218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 449
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0be8b311f890cc50800000000000000
+      internalID: 6683510008203242250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 425
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6802a34ef8a9fd310800000000000000
+      internalID: 1432033149327122566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 400
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfe9e366afa7f810800000000000000
+      internalID: 1799099705333510075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 400
+        width: 125
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74683d098605f7390800000000000000
+      internalID: -7818442018055289273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 400
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725ebee2a5fe42aa0800000000000000
+      internalID: -6186556817486912217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fa9592cfa3c2d60800000000000000
+      internalID: 7866727503809326905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 400
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353e6e9178d939830800000000000000
+      internalID: 4076775291281138515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 400
+        width: 125
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09f954312a7997a0800000000000000
+      internalID: -6369925914908034804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 339
+        width: 13
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df8c67f3b9bd41b0800000000000000
+      internalID: -5670672173188214831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 378
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276cb79f198f28bf0800000000000000
+      internalID: -323422917377669518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 378
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84996b60c9a9b2fa0800000000000000
+      internalID: -5824391698155398840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 378
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b63b64c01df6bf0800000000000000
+      internalID: -328814397118780546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 378
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7b38b73836a34c0800000000000000
+      internalID: -4307020677262362677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 378
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4110b96470b98db80800000000000000
+      internalID: -8369769451916426988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 378
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b48f5cb3475c0ff0800000000000000
+      internalID: -68583945882598220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 378
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8793802bbf8a63340800000000000000
+      internalID: 4843244248260688248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 378
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8342bebd455fac20800000000000000
+      internalID: 3219886050993390476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 378
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb5701860267c150800000000000000
+      internalID: 5892786417511652291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 355
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67bae52e34dbf120800000000000000
+      internalID: 2448784185795196781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 355
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6011543ad26bcf680800000000000000
+      internalID: -8719894471367126778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 355
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f450bed2648a0a5b0800000000000000
+      internalID: -5359098537199336113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 355
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6653a916d94eb68d0800000000000000
+      internalID: -2851934574410582682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 355
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8173847a648ac00800000000000000
+      internalID: 912056608827578579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 355
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac455c7265d1d2600800000000000000
+      internalID: 445044194051183818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 355
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d092217e62c0590800000000000000
+      internalID: -7706742088453780081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 355
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a20439a8b0c4ae0800000000000000
+      internalID: -1563862280800556412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 355
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e72eaea45d8ae780800000000000000
+      internalID: -8652948339191568415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 336
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4196a8e68745a5210800000000000000
+      internalID: 1322462316814035220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 336
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3bc1d2f265288a0800000000000000
+      internalID: -6304381767744965687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 336
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a5e0dac2adf74d0800000000000000
+      internalID: -3134546930209760681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 336
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10fa9836bdd7fe00800000000000000
+      internalID: 1078574410481987610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 336
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dd6313ffd00f680800000000000000
+      internalID: -8723457088523150046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 336
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e440d75673e35a7f0800000000000000
+      internalID: -602006567537277874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 336
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5486d88e84345f480800000000000000
+      internalID: -8866106310990665659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 336
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b399aec8af52a20800000000000000
+      internalID: 3037109006869543755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 336
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f45e80684116e00800000000000000
+      internalID: 1036131955179343623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 305
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ff80d24cdcd3030800000000000000
+      internalID: 3476160729852739377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 320
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43198c5701773440800000000000000
+      internalID: 4915521794729382730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 320
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63959b719e7722f90800000000000000
+      internalID: -6979884629461739210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 320
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad17b405c3e00dc0800000000000000
+      internalID: -3674686860607152732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 320
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f01228b72c96da90800000000000000
+      internalID: -7289467252445671175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 320
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff6bc1ea5c4af510800000000000000
+      internalID: 1583662172193124341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 320
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1181c77c92f6d8f20800000000000000
+      internalID: 3426517116729956369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 320
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccea682dc013f43e0800000000000000
+      internalID: -2067379772798357812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 320
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf571fe7e3c2daa50800000000000000
+      internalID: 6533927281313805819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 320
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e827211d40b456510800000000000000
+      internalID: 1541720931503862414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 305
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33c3aacbbdf18af0800000000000000
+      internalID: -395756309231451334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 305
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de58f267f50d1fc40800000000000000
+      internalID: 5544441724693087725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 305
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2b188a676123dc0800000000000000
+      internalID: -3660838848209767713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 305
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e524dfbf6f8f1ecc0800000000000000
+      internalID: -3683389280539032994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 305
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ac9b9d9f93e49b0800000000000000
+      internalID: -5094070383246980481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 305
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b355bfebf3163af0800000000000000
+      internalID: -417123942705835080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 305
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9c828658ef417d0800000000000000
+      internalID: -2948452007089223226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 305
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd77b5ce73c64ee30800000000000000
+      internalID: 4531866112485980123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 305
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8f28ddf6270b270800000000000000
+      internalID: 8264231141008144545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 264
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d65368fd06357a10800000000000000
+      internalID: 1906489450891007703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 272
+        width: 124
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1975a8f7bb4efc670800000000000000
+      internalID: 8561312910604392337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 272
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90ce35cc99b896a0800000000000000
+      internalID: -6442195183978233699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 272
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8c0c09f87b762e0800000000000000
+      internalID: -2132534071299880724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 272
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9036654b0f16f80a0800000000000000
+      internalID: -6877170419525852407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 272
+        width: 124
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19e518332d8bed90800000000000000
+      internalID: -7067400007823529699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 218
+        width: 13
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31889756b1402d90800000000000000
+      internalID: -7124622359090659014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 244
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc410b766cf9e1d0800000000000000
+      internalID: -3320845733128483663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 244
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2143faf5ab5c750f0800000000000000
+      internalID: -1128215777373113326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 244
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667188c4e48e779e0800000000000000
+      internalID: -1623573717654694042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 244
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc853415895bbb770800000000000000
+      internalID: 8627689176961341647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 244
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf363675b28e8020800000000000000
+      internalID: 2345956171790565302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 244
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8255f949e42b44120800000000000000
+      internalID: 2397236952238609704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 244
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4383b5985a8194c90800000000000000
+      internalID: -7185184631239788492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 244
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46120d7f0c01770a0800000000000000
+      internalID: -6884015084435136156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 244
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde5b6abc5ef3f230800000000000000
+      internalID: 3671557795455131359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 222
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965ca56dbbddba920800000000000000
+      internalID: 3002737375397463401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 222
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca202b283caf6c10800000000000000
+      internalID: 2049045712718539462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 222
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bc52625d281ccc0800000000000000
+      internalID: -3692526367487440007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 222
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add78f43586000c90800000000000000
+      internalID: -7205752234603676198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 222
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fa541276fd99010800000000000000
+      internalID: 1196232810076417795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 222
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b758193cfd975e60800000000000000
+      internalID: 7950997373761116087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 222
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392adc129d6e3ae90800000000000000
+      internalID: -7015509974263684461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 222
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17aff4766aab56980800000000000000
+      internalID: -8546219494005015951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 222
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add23f0a6c011ad50800000000000000
+      internalID: 6746692162067574234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 185
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a36b82f9669f8b40800000000000000
+      internalID: 5444735856299172777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 201
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac83d4b5fea995860800000000000000
+      internalID: 7519211405691402442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 201
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9727ee6347f00590800000000000000
+      internalID: -7709890693062776930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 201
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afac332d25e2ef5c0800000000000000
+      internalID: -4179852470904435974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 201
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b3e018017f1d8f0800000000000000
+      internalID: -517360831914165466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 201
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a4c5ad100786df0800000000000000
+      internalID: -186776231275115976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 201
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48186ac03eb3f5a10800000000000000
+      internalID: 1900303414129492356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 201
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933b412ba0851ae10800000000000000
+      internalID: 2207142095348871993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 201
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f94731175f5bd210800000000000000
+      internalID: 1358784540137966065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 201
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb064ca0079f7880800000000000000
+      internalID: -8610997933363033106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 185
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd77b6277e14bbed0800000000000000
+      internalID: -2397249914331760675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 185
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b856ceae3c085920800000000000000
+      internalID: 2979144616865323191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 185
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e949645c85752bcc0800000000000000
+      internalID: -3696796305339280226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 185
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7c0eade961e2110800000000000000
+      internalID: 1237951819106273265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 185
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d764bfbe9a593e0800000000000000
+      internalID: -2047543624571912906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 185
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd4564fdbca2db60800000000000000
+      internalID: 7769462239016603078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 185
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9fc5bdd14a6a730800000000000000
+      internalID: 4010072966361315767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 185
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec332a8f9a6e3b880800000000000000
+      internalID: -8596273646024903730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 185
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7fc58bfc436c060800000000000000
+      internalID: 6973319139785766818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 161
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a56fec39d2466010800000000000000
+      internalID: 1181705453028992416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 144
+        width: 336
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b9da165ce7e92c0800000000000000
+      internalID: -4422958397818823801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 147
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c5b57adf75c4080800000000000000
+      internalID: -9201883191678641018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 113
+        width: 13
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77dca396a744a340800000000000000
+      internalID: 4874099477489440634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 105
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266e456a86e6cf650800000000000000
+      internalID: 6268006177139123810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 107
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f262b8853212000800000000000000
+      internalID: 9327537430081362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 107
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02ca00912d78a4d0800000000000000
+      internalID: -3123108758477422068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 105
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d209352ed97cd7b30800000000000000
+      internalID: 4286801901247500333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 53
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5463ba0d4683757c0800000000000000
+      internalID: -4082732531539298747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 53
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4028a39213014f480800000000000000
+      internalID: -8866443963054521852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 53
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02aa51479916a270800000000000000
+      internalID: 8261318703884968461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 53
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6628b46dd8e9a6ab0800000000000000
+      internalID: -5014020903100775834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 53
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007445ea6cfd559c0800000000000000
+      internalID: -3938996254644353280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 53
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3ab833b8e8b2630800000000000000
+      internalID: 3903370230563054507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 53
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afeb88e43fde5f60800000000000000
+      internalID: 8025097004353580965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GB_Touring_Car_Sprite_Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 11
+        width: 96
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf5f4a18068307a0800000000000000
+      internalID: -6412134075086184533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
